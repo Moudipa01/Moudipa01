@@ -14,7 +14,6 @@ About me:
 
 
 ### Talk with me, I am kinda awesome:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jana_moudipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jana_moudipa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/moudipa-jana-a0b89b1ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moudipa-jana-a0b89b1ba" height="30" width="40" /></a>
