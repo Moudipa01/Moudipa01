@@ -7,7 +7,7 @@ About me:
 ## I'm a Student, Creator, and Mentor!!
 - 🔭 I’m currently working on my course.
 - <img align="center" alt="Coding" width="20" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif"> I’m currently learning HTML and Azure
--<img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> I’m looking to collaborate on open source
+- <img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Happy!!!
