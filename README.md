@@ -38,6 +38,8 @@ if you like what i do, maybe consider buying me a coffee/pizza 🥺👉👈
 <br />
 ---
 
+#### See my all prejects here: https://moudipajana.dorik.io/
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
