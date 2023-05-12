@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2aa788&center=true&lines=3rd+Year+Engineering+Student;Machine+Learning+Enthusiast;Interested+in+Devops;Always+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2aa788&center=true&lines=4th+Year+Engineering+Student;Machine+Learning+Enthusiast;Interested+in+Devops;Always+learning"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Moudipa01" alt="Moudipa01" /> </p>
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
