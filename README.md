@@ -110,8 +110,3 @@ if you like what i do, maybe consider buying me a coffee/pizza 🥺👉👈
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moudipa01&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
 
-<br/>
-<br/>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Moudipa Jana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Moudipa01&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
-
