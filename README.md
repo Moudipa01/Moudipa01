@@ -16,7 +16,7 @@ About me:
 - <img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- 🥅 2022 Goals: Write a research paper on mathematical modelling & artificial intelligence
+- 🥅 2024 Goals: Looking for Job !!
 - ⚡ Fun fact: I am Happy!!!
 
 
