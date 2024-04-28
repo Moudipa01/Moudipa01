@@ -90,7 +90,7 @@ About me:
 </p>
 </br>
 
-### See my all prejects here: https://moudipajana.dorik.io/
+### See my all prejects here: https://moudipajana.vercel.app/
 
 if you like what i do, maybe consider buying me a coffee/pizza 🥺👉👈
 
